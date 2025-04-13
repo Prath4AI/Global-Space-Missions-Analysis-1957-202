@@ -28,5 +28,4 @@ This project explores a comprehensive dataset from [nextspaceflight.com](https:/
 - Sunburst charts for hierarchical mission data
 - Choropleth map showing global space activity
 
-## 📁 Folder Structure
 
